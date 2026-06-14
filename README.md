@@ -66,16 +66,17 @@ Seluruh teknologi yang dikuasai dikelompokkan berdasarkan peran dalam siklus pen
 
 Jaringan komunikasi formal dan portofolio profesional:
 
-| Platform | Tautan / Kontak |
-| :--- | :--- |
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/niamilah-n-s) | [linkedin.com/in/niamilah-n-s](https://linkedin.com/in/niamilah-n-s) |
-| [![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:syahputranabil521@gmail.com) | [syahputranabil521@gmail.com](mailto:syahputranabil521@gmail.com) |
-| [![Discord](https://img.shields.io/badge/Discord-18181B?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/niamilahnabilsyahputra_46615) | `niamilahnabilsyahputra_46615` |
-| [![Medium](https://img.shields.io/badge/Medium-18181B?style=flat-square&logo=medium&logoColor=FFFFFF)](https://medium.com/@NiamilahNabilSyahputra) | [@NiamilahNabilSyahputra](https://medium.com/@NiamilahNabilSyahputra) |
-| [![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/niamns_) | [@niamns_](https://instagram.com/niamns_) |
-| [![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=FFFFFF)](https://x.com/supertrouper) | [@supertrouper](https://x.com/supertrouper) |
-| [![YouTube](https://img.shields.io/badge/YouTube-18181B?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@Niamns) | [youtube.com/@Niamns](https://youtube.com/@Niamns) |
-| [![Pinterest](https://img.shields.io/badge/Pinterest-18181B?style=flat-square&logo=pinterest&logoColor=E60023)](https://pinterest.com/NabilSyahputra) | [pinterest.com/NabilSyahputra](https://pinterest.com/NabilSyahputra) |
-| [![Mastodon](https://img.shields.io/badge/Mastodon-18181B?style=flat-square&logo=mastodon&logoColor=6364FF)](https://mastodon.social/@NiamilahNabilSyahputra) | [@NiamilahNabilSyahputra](https://mastodon.social/@NiamilahNabilSyahputra) |
-| [![TikTok](https://img.shields.io/badge/TikTok-18181B?style=flat-square&logo=tiktok&logoColor=FFFFFF)](https://tiktok.com/@batagoersiomay) | [@batagoersiomay](https://tiktok.com/@batagoersiomay) |
+<p align="left">
+  <a href="https://linkedin.com/in/niamilah-n-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
+  <a href="mailto:syahputranabil521@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://discord.gg/niamilahnabilsyahputra_46615" target="_blank"><img src="https://img.shields.io/badge/Discord-18181B?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
+  <a href="https://medium.com/@NiamilahNabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Medium-18181B?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="Medium" /></a>
+  <a href="https://instagram.com/niamns_" target="_blank"><img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://x.com/supertrouper" target="_blank"><img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
+  <a href="https://youtube.com/@Niamns" target="_blank"><img src="https://img.shields.io/badge/YouTube-18181B?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
+  <a href="https://pinterest.com/NabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Pinterest-18181B?style=for-the-badge&logo=pinterest&logoColor=E60023" alt="Pinterest" /></a>
+  <a href="https://mastodon.social/@NiamilahNabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Mastodon-18181B?style=for-the-badge&logo=mastodon&logoColor=6364FF" alt="Mastodon" /></a>
+  <a href="https://tiktok.com/@batagoersiomay" target="_blank"><img src="https://img.shields.io/badge/TikTok-18181B?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok" /></a>
+</p>
+
 
