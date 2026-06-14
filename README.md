@@ -58,14 +58,22 @@ Seluruh teknologi yang dikuasai dikelompokkan berdasarkan peran dalam siklus pen
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=supertrouper&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5" alt="GitHub Stats" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api?username=genzabis&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5&bg_color=18181B&text_color=E0E0E0" alt="GitHub Stats" height="195" />
     </td>
     <td width="10"></td>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supertrouper&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Top Languages" height="195" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=genzabis&theme=tokyonight&hide_border=true&background=18181B&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak" height="195" />
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genzabis&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5&bg_color=18181B&text_color=E0E0E0" alt="Top Languages" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=genzabis&theme=tokyonight&bg_color=18181B&color=E0E0E0&line=00ADB5&point=00ADB5&area=true&hide_border=true&area_color=00ADB5" alt="Activity Graph" width="820" />
+</p>
 
 ---
 
@@ -79,7 +87,7 @@ Jaringan komunikasi formal dan portofolio profesional:
   <a href="https://discord.gg/niamilahnabilsyahputra_46615" target="_blank"><img src="https://img.shields.io/badge/Discord-18181B?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
   <a href="https://medium.com/@NiamilahNabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Medium-18181B?style=for-the-badge&logo=medium&logoColor=FFFFFF" alt="Medium" /></a>
   <a href="https://instagram.com/niamns_" target="_blank"><img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-  <a href="https://x.com/supertrouper" target="_blank"><img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
+  <a href="https://x.com/genzabis" target="_blank"><img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
   <a href="https://youtube.com/@Niamns" target="_blank"><img src="https://img.shields.io/badge/YouTube-18181B?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube" /></a>
   <a href="https://pinterest.com/NabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Pinterest-18181B?style=for-the-badge&logo=pinterest&logoColor=E60023" alt="Pinterest" /></a>
   <a href="https://mastodon.social/@NiamilahNabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Mastodon-18181B?style=for-the-badge&logo=mastodon&logoColor=6364FF" alt="Mastodon" /></a>
