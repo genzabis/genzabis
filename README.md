@@ -66,13 +66,16 @@ Seluruh teknologi yang dikuasai dikelompokkan berdasarkan peran dalam siklus pen
 
 Jaringan komunikasi formal dan portofolio profesional:
 
-* **LinkedIn**: [linkedin.com/in/niamilah-n-s](https://linkedin.com/in/niamilah-n-s)
-* **Medium**: [@NiamilahNabilSyahputra](https://medium.com/@NiamilahNabilSyahputra)
-* **Pinterest**: [pinterest.com/NabilSyahputra](https://pinterest.com/NabilSyahputra)
-* **Mastodon**: [@NiamilahNabilSyahputra](https://mastodon.social/@NiamilahNabilSyahputra)
-* **Instagram**: [@niamns_](https://instagram.com/niamns_)
-* **TikTok**: [@batagoersiomay](https://tiktok.com/@batagoersiomay)
-* **X**: [@supertrouper](https://x.com/supertrouper)
-* **YouTube**: [youtube.com/@Niamns](https://youtube.com/@Niamns)
-* **Discord**: `niamilahnabilsyahputra_46615`
-* **Email**: [syahputranabil521@gmail.com](mailto:syahputranabil521@gmail.com)
+| Platform | Tautan / Kontak |
+| :--- | :--- |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/niamilah-n-s) | [linkedin.com/in/niamilah-n-s](https://linkedin.com/in/niamilah-n-s) |
+| [![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:syahputranabil521@gmail.com) | [syahputranabil521@gmail.com](mailto:syahputranabil521@gmail.com) |
+| [![Discord](https://img.shields.io/badge/Discord-18181B?style=flat-square&logo=discord&logoColor=5865F2)](https://discord.gg/niamilahnabilsyahputra_46615) | `niamilahnabilsyahputra_46615` |
+| [![Medium](https://img.shields.io/badge/Medium-18181B?style=flat-square&logo=medium&logoColor=FFFFFF)](https://medium.com/@NiamilahNabilSyahputra) | [@NiamilahNabilSyahputra](https://medium.com/@NiamilahNabilSyahputra) |
+| [![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/niamns_) | [@niamns_](https://instagram.com/niamns_) |
+| [![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=FFFFFF)](https://x.com/supertrouper) | [@supertrouper](https://x.com/supertrouper) |
+| [![YouTube](https://img.shields.io/badge/YouTube-18181B?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@Niamns) | [youtube.com/@Niamns](https://youtube.com/@Niamns) |
+| [![Pinterest](https://img.shields.io/badge/Pinterest-18181B?style=flat-square&logo=pinterest&logoColor=E60023)](https://pinterest.com/NabilSyahputra) | [pinterest.com/NabilSyahputra](https://pinterest.com/NabilSyahputra) |
+| [![Mastodon](https://img.shields.io/badge/Mastodon-18181B?style=flat-square&logo=mastodon&logoColor=6364FF)](https://mastodon.social/@NiamilahNabilSyahputra) | [@NiamilahNabilSyahputra](https://mastodon.social/@NiamilahNabilSyahputra) |
+| [![TikTok](https://img.shields.io/badge/TikTok-18181B?style=flat-square&logo=tiktok&logoColor=FFFFFF)](https://tiktok.com/@batagoersiomay) | [@batagoersiomay](https://tiktok.com/@batagoersiomay) |
+
