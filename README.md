@@ -1,68 +1,59 @@
 <h1 align="center">Niamilah Nabil Syahputra</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=22&duration=3000&pause=1000&color=00ADB5&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Front-End+Specialist;UI%2FUX+Enthusiast" alt="Typing SVG" />
+  <strong>Full Stack Developer | UI/UX Designer | Data Science Enthusiast</strong>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/niamilah-n-s"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/niamns_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:syahputranabil521@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/niamilah-n-s"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0077B5" alt="LinkedIn"></a>
+  <a href="https://instagram.com/niamns_"><img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+  <a href="mailto:syahputranabil521@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=D14836" alt="Email"></a>
 </p>
 
 ---
 
-### About Me
+### Professional Profile
 
-> Seorang Full Stack Developer dengan passion mendalam di bidang Front-End, Back-End, dan UI/UX Design. Berpengalaman membangun berbagai produk digital dengan fokus pada solusi yang tidak hanya fungsional, tetapi juga memberikan pengalaman pengguna yang nyaman, efisien, dan optimal.
+Saya adalah seorang Full Stack Developer dengan spesialisasi pengembangan aplikasi berbasis web, perancangan interface (UI/UX), dan implementasi teknologi kecerdasan buatan. Berpengalaman dalam merancang arsitektur sistem terdistribusi serta membangun antarmuka yang mengutamakan performa, aksesibilitas, dan kenyamanan interaksi pengguna.
 
-- **Fokus Pengembangan**: Pengembangan aplikasi web modern berbasis React, Node.js, dan optimasi arsitektur database.
-- **Pendekatan UI/UX**: Selalu mengutamakan estetika visual premium, keselarasan warna, dan fungsionalitas interaksi.
-- **Kolaborasi & Kontak**: Terbuka untuk proyek web profesional, pengembangan sistem API terintegrasi, atau konsultasi desain interface.
+* **Fokus Riset & Aplikasi**: Pengembangan web modular, optimasi performa backend (PHP/Laravel/Node.js), dan integrasi model pembelajaran mesin (*Machine Learning*).
+* **Filosofi Kerja**: Menggabungkan kekuatan teknis fungsional dengan estetika desain premium untuk menghasilkan produk digital yang memiliki nilai guna tinggi.
 
 ---
 
-### Tech Stack & Tools
+### Area of Expertise
 
-Pengelompokan teknologi dan kakas bantu yang digunakan dalam alur kerja pengembangan perangkat lunak:
+* **Software Engineering**: Pengembangan sistem terdistribusi, inter-koneksi RESTful API, dan optimasi query basis data relasional maupun non-relasional.
+* **UI/UX Design & Prototyping**: Perancangan *design system*, pembuatan purwarupa (*high-fidelity prototype*), dan riset kenyamanan interaksi pengguna (UX).
+* **Data Science & ML**: Pra-pemrosesan data (*data preprocessing*), visualisasi informasi interaktif, dan pemodelan prediktif berbasis Deep Learning.
 
-#### Front-End & Styling
-| Kategori | Badges |
-| :--- | :--- |
-| **Bahasa & Library Utama** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
-| **Framework CSS** | ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+---
 
-#### Back-End & Databases
-| Kategori | Badges |
-| :--- | :--- |
-| **Bahasa Pemrograman** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **Framework & CMS** | ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) |
-| **Basis Data** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **Server Web** | ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) |
+### Technical Stack & Tools
+
+Seluruh teknologi yang dikuasai dikelompokkan berdasarkan peran dalam siklus pengembangan:
+
+#### Web Development (Frontend & Backend)
+* **Languages**: ![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26) ![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=777BB4) ![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=ED8B00) ![C++](https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=00599C)
+* **Frameworks & Libs**: ![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB) ![Laravel](https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=FF2D20) ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-18181B?style=flat-square&logo=codeigniter&logoColor=EF4223) ![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=flat-square&logo=bootstrap&logoColor=7952B3)
+* **Runtimes & CMS**: ![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=339933) ![WordPress](https://img.shields.io/badge/WordPress-18181B?style=flat-square&logo=wordpress&logoColor=21759B)
+* **Databases & Servers**: ![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=4479A1) ![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=003B57) ![Nginx](https://img.shields.io/badge/Nginx-18181B?style=flat-square&logo=nginx&logoColor=009639) ![Apache](https://img.shields.io/badge/Apache-18181B?style=flat-square&logo=apache&logoColor=D42029)
 
 #### Data Science & Machine Learning
-| Kategori | Badges |
-| :--- | :--- |
-| **Framework ML/DL** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Pustaka Analisis**| ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) |
-| **Visualisasi Data** | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) |
+* **ML/DL Frameworks**: ![TensorFlow](https://img.shields.io/badge/TensorFlow-18181B?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-18181B?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![Keras](https://img.shields.io/badge/Keras-18181B?style=flat-square&logo=keras&logoColor=D00000) ![scikit-learn](https://img.shields.io/badge/scikit--learn-18181B?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+* **Libraries & Ops**: ![NumPy](https://img.shields.io/badge/NumPy-18181B?style=flat-square&logo=numpy&logoColor=013243) ![Pandas](https://img.shields.io/badge/Pandas-18181B?style=flat-square&logo=pandas&logoColor=150458) ![SciPy](https://img.shields.io/badge/SciPy-18181B?style=flat-square&logo=scipy&logoColor=8CAAE6) ![MLflow](https://img.shields.io/badge/MLflow-18181B?style=flat-square&logo=mlflow&logoColor=d9ead3)
+* **Visualisasi**: ![Matplotlib](https://img.shields.io/badge/Matplotlib-18181B?style=flat-square&logo=plotly&logoColor=FFFFFF) ![Plotly](https://img.shields.io/badge/Plotly-18181B?style=flat-square&logo=plotly&logoColor=3F4F75)
 
-#### Design & UI/UX
-| Kategori | Badges |
-| :--- | :--- |
-| **Desain Interface** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) |
-| **Adobe Creative** | ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) |
+#### UI/UX & Digital Design
+* **Design Systems**: ![Figma](https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E) ![Canva](https://img.shields.io/badge/Canva-18181B?style=flat-square&logo=canva&logoColor=00C4CC)
+* **Creative Tools**: ![Photoshop](https://img.shields.io/badge/Photoshop-18181B?style=flat-square&logo=adobephotoshop&logoColor=31A8FF) ![Illustrator](https://img.shields.io/badge/Illustrator-18181B?style=flat-square&logo=adobeillustrator&logoColor=FF9A00) ![Dreamweaver](https://img.shields.io/badge/Dreamweaver-18181B?style=flat-square&logo=adobedreamweaver&logoColor=FF61F6)
 
-#### Skrip, Perangkat Keras & Infrastruktur
-| Kategori | Badges |
-| :--- | :--- |
-| **Automasi & Shell** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) |
-| **Layanan & Paket** | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) |
-| **Khusus & Jaringan** | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine&logoColor=blue) |
+#### Automation, Systems & Hardware
+* **Scripts & DevOps**: ![PowerShell](https://img.shields.io/badge/PowerShell-18181B?style=flat-square&logo=powershell&logoColor=5391FE) ![Bash-Script](https://img.shields.io/badge/Bash_Script-18181B?style=flat-square&logo=gnubash&logoColor=4EAA25) ![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032) ![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=FFFFFF) ![Netlify](https://img.shields.io/badge/Netlify-18181B?style=flat-square&logo=netlify&logoColor=00C7B7) ![NPM](https://img.shields.io/badge/NPM-18181B?style=flat-square&logo=npm&logoColor=CB3837)
+* **Hardware & Systems**: ![Arduino](https://img.shields.io/badge/Arduino-18181B?style=flat-square&logo=arduino&logoColor=00979D) ![Cisco](https://img.shields.io/badge/Cisco-18181B?style=flat-square&logo=cisco&logoColor=1BA0D7) ![Godot-Engine](https://img.shields.io/badge/Godot_Engine-18181B?style=flat-square&logo=godotengine&logoColor=478CBF)
 
 ---
 
-### GitHub Stats
+### GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=genzabis&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5" alt="GitHub Stats" height="180px" />
@@ -71,19 +62,17 @@ Pengelompokan teknologi dan kakas bantu yang digunakan dalam alur kerja pengemba
 
 ---
 
-### Social Media & Hubungan Kerja
+### Professional Connections
 
-Saluran komunikasi formal yang dapat digunakan untuk berinteraksi:
+Jaringan komunikasi formal dan portofolio profesional:
 
-<p align="left">
-  <a href="https://discord.gg/niamilahnabilsyahputra_46615" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://instagram.com/niamns_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/niamilah-n-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@NiamilahNabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://pinterest.com/NabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a href="https://tiktok.com/@batagoersiomay" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://x.com/supertrouper" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
-  <a href="https://youtube.com/@Niamns" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://mastodon.social/@NiamilahNabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
-  <a href="mailto:syahputranabil521@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+* **LinkedIn**: [linkedin.com/in/niamilah-n-s](https://linkedin.com/in/niamilah-n-s)
+* **Medium**: [@NiamilahNabilSyahputra](https://medium.com/@NiamilahNabilSyahputra)
+* **Pinterest**: [pinterest.com/NabilSyahputra](https://pinterest.com/NabilSyahputra)
+* **Mastodon**: [@NiamilahNabilSyahputra](https://mastodon.social/@NiamilahNabilSyahputra)
+* **Instagram**: [@niamns_](https://instagram.com/niamns_)
+* **TikTok**: [@batagoersiomay](https://tiktok.com/@batagoersiomay)
+* **X**: [@supertrouper](https://x.com/supertrouper)
+* **YouTube**: [youtube.com/@Niamns](https://youtube.com/@Niamns)
+* **Discord**: `niamilahnabilsyahputra_46615`
+* **Email**: [syahputranabil521@gmail.com](mailto:syahputranabil521@gmail.com)
