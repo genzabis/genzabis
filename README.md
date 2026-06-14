@@ -55,10 +55,17 @@ Seluruh teknologi yang dikuasai dikelompokkan berdasarkan peran dalam siklus pen
 
 ### GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genzabis&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genzabis&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Top Languages" height="180px" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=supertrouper&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5" alt="GitHub Stats" height="195" />
+    </td>
+    <td width="10"></td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supertrouper&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5" alt="Top Languages" height="195" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,7 +73,7 @@ Seluruh teknologi yang dikuasai dikelompokkan berdasarkan peran dalam siklus pen
 
 Jaringan komunikasi formal dan portofolio profesional:
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/niamilah-n-s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" /></a>
   <a href="mailto:syahputranabil521@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
   <a href="https://discord.gg/niamilahnabilsyahputra_46615" target="_blank"><img src="https://img.shields.io/badge/Discord-18181B?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" /></a>
@@ -78,5 +85,6 @@ Jaringan komunikasi formal dan portofolio profesional:
   <a href="https://mastodon.social/@NiamilahNabilSyahputra" target="_blank"><img src="https://img.shields.io/badge/Mastodon-18181B?style=for-the-badge&logo=mastodon&logoColor=6364FF" alt="Mastodon" /></a>
   <a href="https://tiktok.com/@batagoersiomay" target="_blank"><img src="https://img.shields.io/badge/TikTok-18181B?style=for-the-badge&logo=tiktok&logoColor=FFFFFF" alt="TikTok" /></a>
 </p>
+
 
 
