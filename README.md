@@ -2,98 +2,93 @@
 
 # Niamilah Nabil Syahputra
 
-**Full Stack Developer | UI/UX Designer | Data Science Enthusiast**
+**Software Engineer | UI/UX Designer | Data Science & AR Enthusiast**
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=00ADB5)](https://linkedin.com/in/niamilah-n-s)
-[![Email](https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=00ADB5)](mailto:syahputranabil521@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=00ADB5)](https://github.com/genzabis)
-[![Medium](https://img.shields.io/badge/Medium-18181B?style=flat-square&logo=medium&logoColor=00ADB5)](https://medium.com/@NiamilahNabilSyahputra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niamilah-n-s)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahputranabil521@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genzabis)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@NiamilahNabilSyahputra)
 
 <br>
 
-> *Memadukan keandalan arsitektur teknis dengan estetika desain yang matang untuk menghasilkan produk digital bernilai guna tinggi.*
+> *Bridging robust technical architecture with refined design aesthetics to engineer high-impact digital products.*
 
 </div>
 
 ---
 
-## ▎Profil Profesional
+## ▎Professional Summary
 
-Pengembang perangkat lunak lintas disiplin dengan fokus pada pengembangan aplikasi berbasis web, rekayasa aplikasi *mobile* interaktif, perancangan antarmuka (UI/UX), dan penerapan teknologi kecerdasan buatan. Memiliki rekam jejak dalam merancang arsitektur sistem terdistribusi, membangun logika *Augmented Reality* (AR) untuk platform edukasi, serta mengutamakan performa, aksesibilitas, dan kenyamanan interaksi pengguna akhir.
+Multidisciplinary Software Engineer specializing in web architecture, interactive mobile applications, UI/UX design, and artificial intelligence integration. Experienced in designing distributed systems, building Augmented Reality (AR) logic for educational platforms, and delivering products that prioritize high performance, accessibility, and intuitive user experiences.
 
-**Fokus Riset & Aplikasi:** Pengembangan sistem modular, optimasi performa *backend*, komputasi spasial interaktif, dan integrasi model pembelajaran mesin.
-
-<br>
-
-## ▎Kompetensi Inti
-
-*   **Software Engineering & Mobile Development**
-    Pengembangan sistem terdistribusi, integrasi RESTful API, perancangan aplikasi *mobile* performa tinggi, manajemen dependensi (seperti Gradle), dan optimasi basis data.
-*   **UI/UX Design & Prototyping**
-    Perancangan *design system* yang terukur, pembuatan *high-fidelity prototype*, riset interaksi, dan pemetaan perjalanan pengguna (*user journey*).
-*   **Data Science & Machine Learning**
-    Pra-pemrosesan data berskala besar, visualisasi informasi interaktif, evaluasi performa AI, dan pemodelan prediktif berbasis *deep learning*.
+**Current Focus:** Modular system development, backend optimization, interactive spatial computing, and deploying machine learning models.
 
 <br>
 
-## ▎Tumpukan Teknologi
+## ▎Core Competencies
 
-### Pengembangan Web & Mobile
-![HTML5](https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=00ADB5)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=00ADB5)
-![PHP](https://img.shields.io/badge/PHP-18181B?style=flat-square&logo=php&logoColor=00ADB5)
-![Java](https://img.shields.io/badge/Java-18181B?style=flat-square&logo=openjdk&logoColor=00ADB5)
-![C++](https://img.shields.io/badge/C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=00ADB5)
-<br>
-![React](https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=00ADB5)
-![Laravel](https://img.shields.io/badge/Laravel-18181B?style=flat-square&logo=laravel&logoColor=00ADB5)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-18181B?style=flat-square&logo=codeigniter&logoColor=00ADB5)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-18181B?style=flat-square&logo=bootstrap&logoColor=00ADB5)
-![Android Studio](https://img.shields.io/badge/Android_Studio-18181B?style=flat-square&logo=androidstudio&logoColor=00ADB5)
+*   **Software & Mobile Engineering:** Distributed systems, RESTful API integration, high-performance mobile application development, dependency management (e.g., Gradle), and database optimization.
+*   **UI/UX Design & Prototyping:** Scalable design systems, high-fidelity prototyping, interaction research, and user journey mapping.
+*   **Data Science & Machine Learning:** Large-scale data preprocessing, interactive data visualization, AI performance evaluation, and predictive modeling using deep learning.
 
-### Runtime, Database & Infrastruktur
-![Node.js](https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=00ADB5)
-![MySQL](https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=00ADB5)
-![SQLite](https://img.shields.io/badge/SQLite-18181B?style=flat-square&logo=sqlite&logoColor=00ADB5)
-![Nginx](https://img.shields.io/badge/Nginx-18181B?style=flat-square&logo=nginx&logoColor=00ADB5)
-![Apache](https://img.shields.io/badge/Apache-18181B?style=flat-square&logo=apache&logoColor=00ADB5)
-![Gradle](https://img.shields.io/badge/Gradle-18181B?style=flat-square&logo=gradle&logoColor=00ADB5)
 <br>
-![Git](https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=00ADB5)
-![Bash](https://img.shields.io/badge/Bash_Script-18181B?style=flat-square&logo=gnubash&logoColor=00ADB5)
-![Vercel](https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=00ADB5)
+
+## ▎Technical Stack
+
+### Web & Mobile Development
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br>
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### Runtime, Database & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-000000?style=for-the-badge&logo=gradle&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash_Script-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Data Science & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-18181B?style=flat-square&logo=tensorflow&logoColor=00ADB5)
-![PyTorch](https://img.shields.io/badge/PyTorch-18181B?style=flat-square&logo=pytorch&logoColor=00ADB5)
-![Keras](https://img.shields.io/badge/Keras-18181B?style=flat-square&logo=keras&logoColor=00ADB5)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-18181B?style=flat-square&logo=scikitlearn&logoColor=00ADB5)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white)
 <br>
-![NumPy](https://img.shields.io/badge/NumPy-18181B?style=flat-square&logo=numpy&logoColor=00ADB5)
-![Pandas](https://img.shields.io/badge/Pandas-18181B?style=flat-square&logo=pandas&logoColor=00ADB5)
-![MLflow](https://img.shields.io/badge/MLflow-18181B?style=flat-square&logo=mlflow&logoColor=00ADB5)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-18181B?style=flat-square&logo=plotly&logoColor=00ADB5)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-000000?style=for-the-badge&logo=mlflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white)
 
-### Desain, Prototyping & Perangkat Kreatif
-![Figma](https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=00ADB5)
-![Photoshop](https://img.shields.io/badge/Photoshop-18181B?style=flat-square&logo=adobephotoshop&logoColor=00ADB5)
-![Illustrator](https://img.shields.io/badge/Illustrator-18181B?style=flat-square&logo=adobeillustrator&logoColor=00ADB5)
-![Godot Engine](https://img.shields.io/badge/Godot_Engine-18181B?style=flat-square&logo=godotengine&logoColor=00ADB5)
+### Design, Prototyping & Creative Tools
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/Godot_Engine-000000?style=for-the-badge&logo=godotengine&logoColor=white)
 
 <br>
 
-## ▎Statistik Kinerja
+## ▎GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=genzabis&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ADB5&icon_color=00ADB5&bg_color=18181B&text_color=E0E0E0" alt="GitHub Stats" height="195" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=genzabis&theme=tokyonight&hide_border=true&background=18181B&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5" alt="GitHub Streak" height="195" />
+<img src="https://github-readme-stats.vercel.app/api?username=genzabis&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=8a8a8a" alt="GitHub Stats" height="195" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=genzabis&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" height="195" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genzabis&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADB5&bg_color=18181B&text_color=E0E0E0" alt="Top Languages" height="195" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=genzabis&theme=tokyonight&bg_color=18181B&color=E0E0E0&line=00ADB5&point=00ADB5&area=true&hide_border=true&area_color=00ADB5" alt="Activity Graph" width="820" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genzabis&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8a8a8a" alt="Top Languages" height="195" />
 
 </div>
 
@@ -102,9 +97,9 @@ Pengembang perangkat lunak lintas disiplin dengan fokus pada pengembangan aplika
 ---
 
 <div align="center">
-  <b>Terbuka untuk diskusi teknis, kolaborasi proyek, dan peluang profesional.</b><br><br>
+  <b>Open to technical discussions, collaborative projects, and professional opportunities.</b><br><br>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=00ADB5)](https://linkedin.com/in/niamilah-n-s)
-  [![Email](https://img.shields.io/badge/Email-18181B?style=for-the-badge&logo=gmail&logoColor=00ADB5)](mailto:syahputranabil521@gmail.com)
-  [![X](https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=00ADB5)](https://x.com/genzabis)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niamilah-n-s)
+  [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahputranabil521@gmail.com)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/genzabis)
 </div>
