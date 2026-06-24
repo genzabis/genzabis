@@ -1,194 +1,182 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0d1117" />
-      <stop offset="50%" stop-color="#161b22" />
-      <stop offset="100%" stop-color="#0d1117" />
-    </linearGradient>
-
-    <!-- Text Gradient -->
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58a6ff" />
-      <stop offset="50%" stop-color="#79c0ff" />
-      <stop offset="100%" stop-color="#58a6ff">
-        <animate attributeName="offset" values="0;1;0" dur="5s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
-    
-    <!-- Pattern for tech grid -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1f2937" stroke-width="0.5" stroke-dasharray="2 2" />
-    </pattern>
-
-    <!-- Glowing filter for text -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="5" result="blur" />
+    <!-- Glitch Filter -->
+    <filter id="glitch1">
+      <feOffset dx="6" dy="-3" in="SourceGraphic" result="red-shift"/>
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 1 0" in="red-shift" result="red-color"/>
+      
+      <feOffset dx="-6" dy="3" in="SourceGraphic" result="blue-shift"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" in="blue-shift" result="blue-color"/>
+      
       <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
+        <feMergeNode in="red-color"/>
+        <feMergeNode in="blue-color"/>
+        <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <!-- Acid Y2K Star -->
+    <g id="star">
+      <path d="M 15 0 C 15 10 20 15 30 15 C 20 15 15 20 15 30 C 15 20 10 15 0 15 C 10 15 15 10 15 0 Z" fill="#ccff00"/>
+    </g>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#222" stroke-width="1" />
+    </pattern>
   </defs>
 
   <style>
-    /* Base styling */
+    /* System fonts for brutalist aesthetic without external imports */
     text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-    }
-
-    /* Background Animation */
-    .bg-rect {
-      animation: pulseBg 8s infinite alternate;
-    }
-
-    /* Grid Animation */
-    .grid-bg {
-      animation: panGrid 20s linear infinite;
-    }
-
-    /* Text Reveal Animations */
-    .title {
-      font-size: 52px;
-      font-weight: 800;
-      fill: url(#textGrad);
-      filter: url(#glow);
-      opacity: 0;
-      animation: slideUp 1s cubic-bezier(0.16, 1, 0.3, 1) 0.5s forwards;
-    }
-
-    .subtitle {
-      font-size: 18px;
-      font-weight: 500;
-      fill: #8b949e;
-      opacity: 0;
-      letter-spacing: 2px;
-      animation: slideUp 1s cubic-bezier(0.16, 1, 0.3, 1) 0.8s forwards;
-    }
-
-    .tags {
-      font-size: 14px;
-      font-weight: 600;
-      fill: #c9d1d9;
-      opacity: 0;
-      animation: fadeIn 1s ease-out 1.2s forwards;
-    }
-
-    /* Floating Particles */
-    .particle {
-      fill: #58a6ff;
-      opacity: 0;
-    }
-
-    .p1 { animation: float 6s ease-in-out infinite; animation-delay: 0s; }
-    .p2 { animation: float 8s ease-in-out infinite; animation-delay: 2s; }
-    .p3 { animation: float 7s ease-in-out infinite; animation-delay: 4s; }
-    .p4 { animation: float 9s ease-in-out infinite; animation-delay: 1s; }
-    .p5 { animation: float 5s ease-in-out infinite; animation-delay: 3s; }
-
-    /* Animated Path (Drawing effect) */
-    .line-path {
-      fill: none;
-      stroke: #58a6ff;
-      stroke-width: 2;
-      stroke-linecap: round;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
-      opacity: 0.5;
-      animation: drawLine 3s ease-out 1.5s forwards, pulseLine 4s ease-in-out 4.5s infinite alternate;
-    }
-
-    /* Keyframes */
-    @keyframes pulseBg {
-      0% { opacity: 0.9; }
-      100% { opacity: 1; }
-    }
-
-    @keyframes panGrid {
-      from { transform: translate(0, 0); }
-      to { transform: translate(-40px, -40px); }
-    }
-
-    @keyframes slideUp {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-
-    @keyframes float {
-      0% { opacity: 0; transform: translate(0, 0) scale(0.8); }
-      20% { opacity: 0.6; transform: translate(10px, -20px) scale(1.2); }
-      80% { opacity: 0.6; transform: translate(-10px, -80px) scale(1); }
-      100% { opacity: 0; transform: translate(0, -100px) scale(0.5); }
-    }
-
-    @keyframes drawLine {
-      to { stroke-dashoffset: 0; }
-    }
-
-    @keyframes pulseLine {
-      from { opacity: 0.3; }
-      to { opacity: 0.7; }
+      font-family: 'Arial Black', Impact, 'Helvetica Neue', sans-serif;
     }
     
-    /* Glitch effect on title hover equivalent */
-    @keyframes glitch-anim {
-      0% { clip-path: inset(80% 0 0 0); transform: translate(-2px, 2px); }
-      20% { clip-path: inset(10% 0 60% 0); transform: translate(2px, -2px); }
-      40% { clip-path: inset(40% 0 20% 0); transform: translate(-2px, -2px); }
-      60% { clip-path: inset(60% 0 10% 0); transform: translate(2px, 2px); }
-      80% { clip-path: inset(20% 0 80% 0); transform: translate(-2px, 0); }
-      100% { clip-path: inset(0 0 0 0); transform: translate(0, 0); }
+    .bg {
+      fill: #050505;
+    }
+
+    .title {
+      font-size: 68px;
+      font-weight: 900;
+      fill: #ffffff;
+      text-transform: uppercase;
+      letter-spacing: -3px;
+    }
+
+    /* Glitch Animation */
+    .glitch-text {
+      animation: glitch 4s infinite;
+    }
+
+    /* Marquee Styling */
+    .marquee {
+      font-size: 14px;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      fill: #00ffff;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+    }
+
+    .marquee-container {
+      animation: scrollLeft 20s linear infinite;
+    }
+
+    /* Spinning Stars */
+    .acid-star {
+      animation: spin 8s linear infinite;
+    }
+    .acid-star-reverse {
+      animation: spin-reverse 6s linear infinite;
+    }
+
+    .pill-box {
+      fill: none;
+      stroke-width: 2;
+    }
+
+    .pill-text {
+      font-size: 13px;
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+    }
+
+    /* Windows 95 style box */
+    .win-box {
+      fill: #c0c0c0;
+      stroke: #ffffff;
+      stroke-width: 2;
+    }
+    .win-border {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 2;
+    }
+    .win-header {
+      fill: #000080;
+    }
+    .win-text {
+      font-size: 10px;
+      font-family: 'Courier New', Courier, monospace;
+      fill: #ffffff;
+      font-weight: bold;
+    }
+
+    @keyframes scrollLeft {
+      from { transform: translateX(1000px); }
+      to { transform: translateX(-1500px); }
+    }
+
+    @keyframes spin {
+      100% { transform: rotate(360deg); }
+    }
+    @keyframes spin-reverse {
+      100% { transform: rotate(-360deg); }
+    }
+
+    @keyframes glitch {
+      0%, 100% { filter: none; transform: translate(0,0); }
+      2% { filter: url(#glitch1); transform: translate(-3px, 3px); }
+      4% { filter: none; transform: translate(0,0); }
+      6% { filter: url(#glitch1); transform: translate(3px, -3px); }
+      8% { filter: none; transform: translate(0,0); }
+    }
+
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
     }
   </style>
 
   <!-- Background -->
-  <rect class="bg-rect" width="100%" height="100%" fill="url(#bg)" rx="15" ry="15" />
+  <rect class="bg" width="100%" height="100%" rx="16" />
+
+  <!-- Brutalist Grid -->
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <!-- Marquee Banner (Top) -->
+  <rect x="0" y="20" width="1000" height="24" fill="#111" />
+  <g class="marquee-container" transform="translate(0, 36)">
+    <text x="0" y="0" class="marquee">/// SOFTWARE ENGINEER /// UI/UX DESIGNER /// DATA SCIENCE /// AR/VR ENTHUSIAST /// FULLSTACK DEV /// SYSTEM.OVERRIDE() ///</text>
+  </g>
+
+  <!-- Y2K Acid Stars -->
+  <g style="transform-origin: 120px 140px;" class="acid-star">
+    <use href="#star" x="105" y="125" transform="scale(2)" />
+  </g>
+  <g style="transform-origin: 880px 100px;" class="acid-star-reverse">
+    <use href="#star" x="865" y="85" transform="scale(1.5)" style="fill: #ff00ff;" />
+  </g>
+
+  <!-- Main Title with Glitch -->
+  <text x="500" y="145" text-anchor="middle" class="title glitch-text">NIAMILAH NABIL</text>
   
-  <!-- Grid overlay -->
-  <rect class="grid-bg" width="120%" height="120%" fill="url(#grid)" />
+  <!-- Blinking Terminal Cursor -->
+  <rect x="855" y="95" width="30" height="50" fill="#ccff00" style="animation: blink 1s step-end infinite;" />
 
-  <!-- Animated connection line -->
-  <path class="line-path" d="M 100 200 C 300 150 700 250 900 50" />
-  <path class="line-path" d="M 50 50 C 250 100 650 0 950 150" style="animation-delay: 2s;" />
+  <!-- Cyberpunk/Brutalist Badges -->
+  <g transform="translate(320, 180)">
+    <rect x="0" y="0" width="100" height="28" rx="0" class="pill-box" style="stroke: #ff00ff;" />
+    <text x="50" y="18" text-anchor="middle" class="pill-text" style="fill: #ff00ff;">GEN_Z.EXE</text>
+  </g>
 
-  <!-- Particles -->
-  <circle class="particle p1" cx="150" cy="180" r="3" />
-  <circle class="particle p2" cx="850" cy="200" r="4" />
-  <circle class="particle p3" cx="750" cy="80" r="2" />
-  <circle class="particle p4" cx="250" cy="60" r="5" />
-  <circle class="particle p5" cx="500" cy="220" r="3" />
+  <g transform="translate(440, 180)">
+    <rect x="0" y="0" width="120" height="28" rx="0" fill="#ccff00" />
+    <text x="60" y="18" text-anchor="middle" class="pill-text" fill="#000">SPATIAL_WEB</text>
+  </g>
 
-  <!-- Main Content Group -->
-  <g text-anchor="middle">
-    <!-- Main Title -->
-    <text x="500" y="110" class="title">Niamilah Nabil Syahputra</text>
-    
-    <!-- Subtitle -->
-    <text x="500" y="150" class="subtitle">Software Engineer • UI/UX Designer • Data Science &amp; AR</text>
-    
-    <!-- Tags/Pills -->
-    <g class="tags">
-      <!-- Tag 1 -->
-      <rect x="230" y="180" width="120" height="26" rx="13" fill="#1f2937" stroke="#30363d" />
-      <text x="290" y="198">Web Architecture</text>
+  <g transform="translate(580, 180)">
+    <rect x="0" y="0" width="100" height="28" rx="0" class="pill-box" style="stroke: #00ffff;" />
+    <text x="50" y="18" text-anchor="middle" class="pill-text" style="fill: #00ffff;">AI_MODEL</text>
+  </g>
 
-      <!-- Tag 2 -->
-      <rect x="360" y="180" width="100" height="26" rx="13" fill="#1f2937" stroke="#30363d" />
-      <text x="410" y="198">Mobile Apps</text>
-
-      <!-- Tag 3 -->
-      <rect x="470" y="180" width="140" height="26" rx="13" fill="#1f2937" stroke="#30363d" />
-      <text x="540" y="198">Spatial Computing</text>
-
-      <!-- Tag 4 -->
-      <rect x="620" y="180" width="150" height="26" rx="13" fill="#1f2937" stroke="#30363d" />
-      <text x="695" y="198">Machine Learning</text>
-    </g>
+  <!-- Irony/Retro Window Panel (Bottom Right) -->
+  <g transform="translate(820, 190)">
+    <rect x="0" y="0" width="140" height="40" class="win-box" />
+    <rect x="0" y="0" width="140" height="40" class="win-border" />
+    <rect x="2" y="2" width="136" height="14" class="win-header" />
+    <text x="5" y="12" class="win-text">STATUS.LOG</text>
+    <text x="5" y="30" class="pill-text" style="fill: #000; font-size: 11px;">&gt; VIBING_</text>
   </g>
 
 </svg>
