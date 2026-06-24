@@ -202,20 +202,6 @@ Large-scale data preprocessing, interactive visualization, AI evaluation, and de
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TROPHIES -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=genzabis&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- FOOTER -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
