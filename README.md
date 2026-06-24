@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/genzabis/genzabis/main/assets/header-animated.svg" width="100%" alt="Niamilah Nabil Syahputra - Animated Header" />
+<img src="assets/header-animated.svg?v=2" width="100%" alt="Niamilah Nabil Syahputra - Animated Header" />
 
 <br/>
 
