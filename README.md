@@ -6,7 +6,7 @@
 
 <img src="assets/header-animated.svg?v=2" width="100%" alt="Niamilah Nabil Syahputra - Animated Header" />
 
-<h1>Niamilah Nabil Syahputra</h1>
+<h1 align="center" style="font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800;">Niamilah Nabil Syahputra</h1>
 
 <br/>
 
