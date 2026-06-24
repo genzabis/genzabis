@@ -39,7 +39,7 @@
 <!-- ABOUT -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28" /> &nbsp;About
+## About
 
 Multidisciplinary **Software Engineer** specializing in web architecture, interactive mobile applications, UI/UX design, and artificial intelligence integration. Experienced in designing distributed systems, building **Augmented Reality (AR)** logic for educational platforms, and delivering products that prioritize high performance, accessibility, and intuitive user experiences.
 
@@ -59,13 +59,13 @@ const nabil = {
 <!-- CORE COMPETENCIES -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28" /> &nbsp;Core Competencies
+## Core Competencies
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<h3 align="center">⚙️ Engineering</h3>
+<h3 align="center">Engineering</h3>
 <p align="center">
 Distributed systems, RESTful API integration, high-performance mobile apps, dependency management, and database optimization.
 </p>
@@ -73,7 +73,7 @@ Distributed systems, RESTful API integration, high-performance mobile apps, depe
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">🎨 Design</h3>
+<h3 align="center">Design</h3>
 <p align="center">
 Scalable design systems, high-fidelity prototyping, interaction research, and user journey mapping.
 </p>
@@ -81,7 +81,7 @@ Scalable design systems, high-fidelity prototyping, interaction research, and us
 </td>
 <td width="33%" valign="top">
 
-<h3 align="center">🧠 Data & AI</h3>
+<h3 align="center">Data & AI</h3>
 <p align="center">
 Large-scale data preprocessing, interactive visualization, AI evaluation, and deep learning modeling.
 </p>
@@ -96,7 +96,7 @@ Large-scale data preprocessing, interactive visualization, AI evaluation, and de
 <!-- TECH STACK -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> &nbsp;Tech Stack
+## Tech Stack
 
 <details open>
 <summary><b>&nbsp;&nbsp;Web & Mobile Development</b></summary>
@@ -171,7 +171,7 @@ Large-scale data preprocessing, interactive visualization, AI evaluation, and de
 <!-- GITHUB ANALYTICS -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -200,26 +200,10 @@ Large-scale data preprocessing, interactive visualization, AI evaluation, and de
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SNAKE CONTRIBUTION -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genzabis/genzabis/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genzabis/genzabis/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/genzabis/genzabis/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- TROPHIES -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> &nbsp;Achievements
+## Achievements
 
 <div align="center">
 
