@@ -225,5 +225,6 @@
   </g>
 
   <!-- Retro Text Banner Overlay -->
-  <text x="500" y="45" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="32" font-weight="900" fill="#ffffff" opacity="0.9" style="letter-spacing: 12px; filter: drop-shadow(0px 3px 0px #ff0055);">WELCOME TO THE ZOO</text>
+  <text x="500" y="48" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="32" font-weight="900" fill="#ff0055" style="letter-spacing: 12px;">WELCOME TO THE ZOO</text>
+  <text x="500" y="45" text-anchor="middle" font-family="'Arial Black', Impact, sans-serif" font-size="32" font-weight="900" fill="#ffffff" opacity="0.9" style="letter-spacing: 12px;">WELCOME TO THE ZOO</text>
 </svg>
