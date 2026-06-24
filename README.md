@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e2e,75:1f2937,100:0d1117&height=200&section=header&text=Niamilah%20Nabil%20Syahputra&fontSize=38&fontColor=e6edf3&fontAlignY=35&desc=Software%20Engineer%20%20%E2%80%A2%20%20UI%2FUX%20Designer%20%20%E2%80%A2%20%20Data%20Science%20%26%20AR&descSize=14&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="./assets/header-animated.svg" width="100%" alt="Niamilah Nabil Syahputra - Animated Header" />
 
 <br/>
 
