@@ -60,8 +60,8 @@ Software Engineer focused on **distributed systems**, **interactive mobile appli
 **Design & Creative**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />&nbsp;
-<img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" alt="Photoshop" />&nbsp;
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40" alt="Illustrator" />&nbsp;
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />&nbsp;
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />&nbsp;
 <img src="https://cdn.simpleicons.org/godotengine/478CBF" width="40" alt="Godot" />&nbsp;
 
 ---
