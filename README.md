@@ -32,7 +32,7 @@ Software Engineer focused on **distributed systems**, **interactive mobile appli
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel" />&nbsp;
+<img src="https://cdn.simpleicons.org/laravel/FF2D20" width="40" alt="Laravel" />&nbsp;
 <img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="40" alt="CodeIgniter" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width="40" alt="Android" />&nbsp;
