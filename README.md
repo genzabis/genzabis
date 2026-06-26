@@ -1,107 +1,35 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="assets/header-animated.svg?v=4" width="100%" alt="Niamilah Nabil Syahputra - Animated Header" />
+<img src="assets/header-animated.svg?v=4" width="100%" alt="Niamilah Nabil Syahputra" />
 
-<h1 align="center" style="font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800;">Niamilah Nabil Syahputra</h1>
+<h1 align="center">Niamilah Nabil Syahputra</h1>
 
-<br/>
-
-<!-- ANIMATED TYPING -->
 <a href="https://github.com/genzabis">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=45&lines=Bridging+architecture+%26+design+to+engineer+high-impact+products;Building+distributed+systems+%26+intelligent+interfaces;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Software+Engineer+%7C+Distributed+Systems+%7C+UI%2FUX+Design" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- SOCIAL LINKS -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niamilah-n-s)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahputranabil521@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/genzabis)
-&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@NiamilahNabilSyahputra)
-&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/genzabis)
-
-<br/>
-
-<!-- PROFILE VIEWS -->
-<img src="https://komarev.com/ghpvc/?username=genzabis&style=for-the-badge&color=0d1117&label=Profile+Views" alt="Profile Views" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/niamilah-n-s)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:syahputranabil521@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/genzabis)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@NiamilahNabilSyahputra)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/genzabis)
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 ## About
 
-Multidisciplinary **Software Engineer** specializing in web architecture, interactive mobile applications, UI/UX design, and artificial intelligence integration. Experienced in designing distributed systems, building **Augmented Reality (AR)** logic for educational platforms, and delivering products that prioritize high performance, accessibility, and intuitive user experiences.
+Software Engineer focused on **distributed systems**, **interactive mobile applications**, and **AI integration**. I bridge architecture and design to build high-impact products — from RESTful APIs to AR-powered educational platforms. Currently exploring advanced AR/VR interactions and edge ML deployment.
 
-```js
-const nabil = {
-    focus: ["Modular Systems", "Backend Optimization", "Spatial Computing", "ML Deployment"],
-    languages: ["JavaScript", "PHP", "Java", "C++", "Python"],
-    architecture: ["Distributed Systems", "RESTful APIs", "Microservices"],
-    currentlyLearning: "Advanced AR/VR interactions & Edge ML deployment",
-    funFact: "I design in Figma before I code — pixels first, logic second."
-};
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CORE COMPETENCIES -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## Core Competencies
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<h3 align="center">Engineering</h3>
-<p align="center">
-Distributed systems, RESTful API integration, high-performance mobile apps, dependency management, and database optimization.
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">Design</h3>
-<p align="center">
-Scalable design systems, high-fidelity prototyping, interaction research, and user journey mapping.
-</p>
-
-</td>
-<td width="33%" valign="top">
-
-<h3 align="center">Data & AI</h3>
-<p align="center">
-Large-scale data preprocessing, interactive visualization, AI evaluation, and deep learning modeling.
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 ## Tech Stack
 
-<details open>
-<summary><b>&nbsp;&nbsp;Web & Mobile Development</b></summary>
+<details>
+<summary><b>Web & Mobile</b></summary>
 <br/>
 <div align="center">
 
@@ -119,8 +47,8 @@ Large-scale data preprocessing, interactive visualization, AI evaluation, and de
 </div>
 </details>
 
-<details open>
-<summary><b>&nbsp;&nbsp;Runtime, Database & Infrastructure</b></summary>
+<details>
+<summary><b>Infrastructure & Database</b></summary>
 <br/>
 <div align="center">
 
@@ -129,33 +57,30 @@ Large-scale data preprocessing, interactive visualization, AI evaluation, and de
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 </details>
 
-<details open>
-<summary><b>&nbsp;&nbsp;Data Science & Machine Learning</b></summary>
+<details>
+<summary><b>Data Science & ML</b></summary>
 <br/>
 <div align="center">
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
 
 </div>
 </details>
 
-<details open>
-<summary><b>&nbsp;&nbsp;Design, Prototyping & Creative Tools</b></summary>
+<details>
+<summary><b>Design & Creative</b></summary>
 <br/>
 <div align="center">
 
@@ -167,77 +92,33 @@ Large-scale data preprocessing, interactive visualization, AI evaluation, and de
 </div>
 </details>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB ANALYTICS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## GitHub Analytics
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=genzabis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" height="195" />
+<img src="https://github-readme-stats.vercel.app/api?username=genzabis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats" height="165" />
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=genzabis&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" height="195" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genzabis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genzabis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" height="165" />
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ACTIVITY GRAPH -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=genzabis&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="Activity Graph" />
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB SNAKE GAME -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genzabis/genzabis/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genzabis/genzabis/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/genzabis/genzabis/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/genzabis/genzabis/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-
----
-
-<br/>
-
-**Open to technical discussions, collaborative projects, and professional opportunities.**
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niamilah-n-s)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syahputranabil521@gmail.com)
-&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/genzabis)
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e2e,75:1f2937,100:0d1117&height=120&section=footer" width="100%" />
 
