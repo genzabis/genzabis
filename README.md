@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="assets/header-animated.svg?v=4" width="100%" alt="Niamilah Nabil Syahputra" />
+<h1>Niamilah Nabil Syahputra</h1>
 
-<h1 align="center">Niamilah Nabil Syahputra</h1>
-
-<a href="https://github.com/genzabis">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=500&height=40&lines=Software+Engineer+%7C+Distributed+Systems+%7C+UI%2FUX+Design" alt="Typing SVG" />
-</a>
+Software Engineer · Distributed Systems · AI Integration
 
 <br/><br/>
 
@@ -22,16 +18,13 @@
 
 ## About
 
-Software Engineer focused on **distributed systems**, **interactive mobile applications**, and **AI integration**. I bridge architecture and design to build high-impact products — from RESTful APIs to AR-powered educational platforms. Currently exploring advanced AR/VR interactions and edge ML deployment.
+Software Engineer focused on **distributed systems**, **interactive mobile applications**, and **AI integration**. Bridging architecture and design to build high-impact products — from RESTful APIs to AR-powered educational platforms. Currently exploring advanced AR/VR interactions and edge ML deployment.
 
 ---
 
 ## Tech Stack
 
-<details>
-<summary><b>Web & Mobile</b></summary>
-<br/>
-<div align="center">
+**Web & Mobile**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -44,13 +37,7 @@ Software Engineer focused on **distributed systems**, **interactive mobile appli
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
-</div>
-</details>
-
-<details>
-<summary><b>Infrastructure & Database</b></summary>
-<br/>
-<div align="center">
+**Infrastructure & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -60,13 +47,7 @@ Software Engineer focused on **distributed systems**, **interactive mobile appli
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-</div>
-</details>
-
-<details>
-<summary><b>Data Science & ML</b></summary>
-<br/>
-<div align="center">
+**Data Science & ML**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -76,21 +57,12 @@ Software Engineer focused on **distributed systems**, **interactive mobile appli
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-</div>
-</details>
-
-<details>
-<summary><b>Design & Creative</b></summary>
-<br/>
-<div align="center">
+**Design & Creative**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-
-</div>
-</details>
 
 ---
 
@@ -104,22 +76,3 @@ Software Engineer focused on **distributed systems**, **interactive mobile appli
 
 </div>
 
----
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genzabis/genzabis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genzabis/genzabis/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/genzabis/genzabis/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a1e2e,75:1f2937,100:0d1117&height=120&section=footer" width="100%" />
-
-</div>
