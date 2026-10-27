@@ -36,5 +36,3 @@ Currently exploring augmented reality, immersive technologies, and on-device mac
 - Augmented reality and interactive systems
 
 ---
-
-*Engineering reliable systems. Designing meaningful experiences.*
